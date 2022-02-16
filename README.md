@@ -11,11 +11,11 @@ examples
 
 See following demos and check the source code with some comments.
 
-1. [getstarted](http://yomotsu.github.io/meshwalk/example/1_getstarted.html)
-2. [keyboardInput](http://yomotsu.github.io/meshwalk/example/2_keyboardInput.html)
-3. [cameraControl](http://yomotsu.github.io/meshwalk/example/3_cameraControl.html)
-4. [objects](http://yomotsu.github.io/meshwalk/example/4_objects.html)
-5. [terrain](http://yomotsu.github.io/meshwalk/example/5_terrain.html)
-6. [animationController](http://yomotsu.github.io/meshwalk/example/6_animationController.html)
-7. [all together](http://yomotsu.github.io/meshwalk/example/7_allTogether.html)
-8. [remove collider](http://yomotsu.github.io/meshwalk/example/8_meshRemove.html)
+1. [getstarted](http://a-live-dev.github.io/mwshwalk/example/1_getstarted.html)
+2. [keyboardInput](http://a-live-dev.github.io/mwshwalk/example/2_keyboardInput.html)
+3. [cameraControl](http://a-live-dev.github.io/mwshwalk/example/3_cameraControl.html)
+4. [objects](http://a-live-dev.github.io/mwshwalk/example/4_objects.html)
+5. [terrain](http://a-live-dev.github.io/mwshwalk/example/5_terrain.html)
+6. [animationController](http://a-live-dev.github.io/mwshwalk/example/6_animationController.html)
+7. [all together](http://a-live-dev.github.io/mwshwalk/example/7_allTogether.html)
+8. [remove collider](http://a-live-dev.github.io/mwshwalk/example/8_meshRemove.html)
