@@ -51,6 +51,6 @@
     "physics"
   ],
   "dependencies": {
-    "camera-controls": "^1.22.1"
+    "camera-controls": "^1.34.0"
   }
 }
